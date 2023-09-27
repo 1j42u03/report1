@@ -1,0 +1,34 @@
+div.index {
+  display: flex;
+}
+
+section.join {
+  border: 2px solid white;
+  margin: 20px;
+  text-align: center;
+  position: relative;
+  padding: 8px;
+
+}
+
+section.join div.joinPic img {
+  width: 400px;
+  height: 200px;
+}
+
+
+section.join h4 {
+  background-image: url(/個專/images/background.jfif);
+  padding: 20px 0px;
+  margin: 8px;
+  font-size: 40px;
+  /* background-color: #ED7D31; */
+  color: white;
+  border: 8px double white;
+  text-shadow: orange 0.1em 0.1em 0.2em;
+}
+
+section.join div.joinText {
+  text-align: justify;
+  padding: 0 8px;
+}
